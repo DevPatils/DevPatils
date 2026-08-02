@@ -94,7 +94,7 @@ Currently **SDE 1 at [Wnexus](https://wnexus.io)**, shipping energy-brokerage in
 <table>
 <tr><th align="left" width="30%">Project</th><th align="left">What it actually does</th><th align="left" width="13%">Stack</th></tr>
 <tr>
-<td valign="top"><b><a href="https://kleostudios.com">AI Receptionist</a></b><br/><sub>Voice AI · 2026</sub></td>
+<td valign="top"><b><a href="https://kleostudios.com">KleosVoice</a></b><br/><sub>Voice AI · 2026</sub></td>
 <td valign="top">Inbound phone agent that books, takes messages, and escalates emergencies — live, over real telephony.</td>
 <td valign="top"><sub>Next.js · Node · Postgres · Twilio</sub></td>
 </tr>
@@ -123,7 +123,7 @@ Currently **SDE 1 at [Wnexus](https://wnexus.io)**, shipping energy-brokerage in
 <br/>
 
 <details open>
-<summary><b><img src="https://api.iconify.design/octicon/unmute-24.svg?color=%2358a6ff" width="16" align="center" alt="" />&nbsp; AI Receptionist &nbsp;—&nbsp; real-time voice agent for company operations</b></summary>
+<summary><b><img src="https://api.iconify.design/octicon/unmute-24.svg?color=%2358a6ff" width="16" align="center" alt="" />&nbsp; KleosVoice &nbsp;—&nbsp; real-time AI receptionist for company operations</b></summary>
 
 <br/>
 

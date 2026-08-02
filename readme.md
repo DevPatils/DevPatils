@@ -43,7 +43,7 @@ Currently **SDE 1 at Wnexus**, shipping energy-brokerage infrastructure on TRON.
 <tr>
 <td width="34%" valign="top">
 
-**Wnexus** &nbsp;<img src="https://api.iconify.design/octicon/link-external-16.svg?color=%238b949e" width="12" alt="" />
+**Wnexus** &nbsp;<img src="https://wnexus.io" width="12" alt="" />
 
 `SDE 1` <br/>
 <sub>Sept 2025 — Present · Vadodara, IN</sub>

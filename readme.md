@@ -94,22 +94,22 @@ Currently **SDE 1 at [Wnexus](https://wnexus.io)**, shipping energy-brokerage in
 <table>
 <tr><th align="left" width="30%">Project</th><th align="left">What it actually does</th><th align="left" width="13%">Stack</th></tr>
 <tr>
-<td valign="top"><b><a href="https://www.devpatil.xyz">AI Receptionist</a></b><br/><sub>Voice AI · 2026</sub></td>
+<td valign="top"><b><a href="https://kleostudios.com">AI Receptionist</a></b><br/><sub>Voice AI · 2026</sub></td>
 <td valign="top">Inbound phone agent that books, takes messages, and escalates emergencies — live, over real telephony.</td>
 <td valign="top"><sub>Next.js · Node · Postgres · Twilio</sub></td>
 </tr>
 <tr>
-<td valign="top"><b><a href="https://www.devpatil.xyz">P2P Staking on TRON</a></b><br/><sub>Smart contracts · 2025</sub></td>
+<td valign="top"><b><a href="https://github.com/DevPatils/pooled-staking-contracts">P2P Staking on TRON</a></b><br/><sub>Smart contracts · 2025</sub></td>
 <td valign="top">Custodial pooled-staking vault on TRON mainnet issuing TRC20 receipt tokens against TRX deposits.</td>
 <td valign="top"><sub>Solidity · TRON · ECDSA</sub></td>
 </tr>
 <tr>
-<td valign="top"><b><a href="https://www.devpatil.xyz">FlashTrade</a></b><br/><sub>Algo trading · 2026</sub></td>
+<td valign="top"><b><a href="https://flashtrade.xyz">FlashTrade</a></b><br/><sub>Algo trading · 2026</sub></td>
 <td valign="top">Trading platform running concurrent bot workers against Binance spot and futures markets.</td>
 <td valign="top"><sub>React · Node · Redis · BullMQ</sub></td>
 </tr>
 <tr>
-<td valign="top"><b><a href="https://www.devpatil.xyz">Crux AI</a></b><br/><sub>GenAI product · 2025</sub></td>
+<td valign="top"><b><a href="https://github.com/DevPatils/Crux-AI--Deployment-Automation">Crux AI</a></b><br/><sub>GenAI product · 2025</sub></td>
 <td valign="top">Turns a raw résumé PDF into a deployed portfolio site on Vercel in one pass.</td>
 <td valign="top"><sub>React · Prisma · Gemini</sub></td>
 </tr>
@@ -136,6 +136,8 @@ Currently **SDE 1 at [Wnexus](https://wnexus.io)**, shipping energy-brokerage in
 <img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTYgMTYiPjxwYXRoIGZpbGw9IiNGNTUwMzYiIGQ9Ik05LjUwNC40M2ExLjUxNiAxLjUxNiAwIDAgMSAyLjQzNyAxLjcxM0wxMC40MTUgNS41aDIuMTIzYzEuNTcgMCAyLjM0NiAxLjkwOSAxLjIyIDMuMDA0bC03LjM0IDcuMTQyYTEuMjUgMS4yNSAwIDAgMS0uODcxLjM1NGgtLjMwMmExLjI1IDEuMjUgMCAwIDEtMS4xNTctMS43MjNMNS42MzMgMTAuNUgzLjQ2MmMtMS41NyAwLTIuMzQ2LTEuOTA5LTEuMjItMy4wMDR6bTEuMDQ3IDEuMDc0TDMuMjg2IDguNTcxQS4yNS4yNSAwIDAgMCAzLjQ2MiA5SDYuNzVhLjc1Ljc1IDAgMCAxIC42OTQgMS4wMzRsLTEuNzEzIDQuMTg4bDYuOTgyLTYuNzkzQS4yNS4yNSAwIDAgMCAxMi41MzggN0g5LjI1YS43NS43NSAwIDAgMS0uNjgzLTEuMDZsMi4wMDgtNC40MThsLjAwMy0uMDA2bC0uMDA0LS4wMDlsLS4wMDYtLjAwNmwtLjAwOC0uMDAxcS0uMDA1IDAtLjAwOS4wMDQiLz48L3N2Zz4%3D" alt="" />
 <img src="https://img.shields.io/badge/Cartesia-0D1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTYgMTYiPjxwYXRoIGZpbGw9IiNBMzcxRjciIGQ9Ik03LjU2MyAyLjA2OUEuNzUuNzUgMCAwIDEgOCAyLjc1djEwLjVhLjc1MS43NTEgMCAwIDEtMS4yMzguNTdMMy40NzIgMTFIMS43NUExLjc1IDEuNzUgMCAwIDEgMCA5LjI1di0yLjVDMCA1Ljc4NC43ODQgNSAxLjc1IDVoMS43MjNsMy4yODktMi44MmEuNzUuNzUgMCAwIDEgLjgwMS0uMTExTTYuNSA0LjM4TDQuMjM4IDYuMzE5YS43NS43NSAwIDAgMS0uNDg4LjE4MWgtMmEuMjUuMjUgMCAwIDAtLjI1LjI1djIuNWMwIC4xMzguMTEyLjI1LjI1LjI1aDJjLjE3OSAwIC4zNTIuMDY0LjQ4OC4xOEw2LjUgMTEuNjJabTYuMDk2LTIuMDM4YS43NS43NSAwIDAgMSAxLjA2IDBhOCA4IDAgMCAxIDAgMTEuMzE0YS43NS43NSAwIDAgMS0xLjA0Mi0uMDE4YS43NS43NSAwIDAgMS0uMDE4LTEuMDQyYTYuNSA2LjUgMCAwIDAgMC05LjE5M2EuNzUuNzUgMCAwIDEgMC0xLjA2Wm0tMS4wNiAyLjEyMWwtLjAwMS4wMDFhNSA1IDAgMCAxIDAgNy4wN2EuNzQ5Ljc0OSAwIDAgMS0xLjI3NS0uMzI2YS43NS43NSAwIDAgMSAuMjE1LS43MzRhMy41IDMuNSAwIDAgMCAwLTQuOTVhLjc1Ljc1IDAgMSAxIDEuMDYxLTEuMDYxIi8%2BPC9zdmc%2B" alt="" />
 
+<a href="https://kleostudios.com"><img src="https://img.shields.io/badge/Live-kleostudios.com-58A6FF?style=flat-square&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Live site" /></a>
+
 **The constraint** — a caller notices silence at roughly one second. Everything below is built around that number.
 
 - Assembled a **cascaded STT → LLM → TTS pipeline** (Deepgram · Claude/Groq · Cartesia) riding Twilio phone calls, engineered against a **sub-800&#8202;ms voice-to-voice** target end to end.
@@ -155,6 +157,8 @@ Currently **SDE 1 at [Wnexus](https://wnexus.io)**, shipping energy-brokerage in
 <img src="https://img.shields.io/badge/TRON-0D1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNFRjAwMjciIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTQuNDE4IDMuMTg2YS41Ni41NiAwIDAgMSAuNTUzLS4xN2wxMS45MDQgMi45MTVxLjEwOC4wMjcuMTk4LjA5MmwyLjQyMiAxLjc2NWEuNTY0LjU2NCAwIDAgMSAuMTMzLjc3NGwtOC4zMzIgMTIuMTkyYS41NjQuNTY0IDAgMCAxLS45OTgtLjEzTDQuMzA2IDMuNzU0YS41Ni41NiAwIDAgMSAuMTEyLS41NjhtMS45NjUgMy4wNDVsNC4xNiAxMS43MTFsLjY4NC02LjA3em01Ljk1NyA1LjgzOGwtLjY5NSA2LjE3NWw1Ljg4NC04LjYxem01LjcyLTMuOTNsLTMuNzkzIDEuNzhsMi41NDMtMi42OTJ6bS0yLjM5NS0xLjM0M0w2LjQxIDQuNTNsNS40MjYgNi4zMnoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg%3D%3D" alt="" />
 <img src="https://img.shields.io/badge/TRC20-0D1117?style=flat-square&logo=ethereum&logoColor=A371F7" alt="" />
 <img src="https://img.shields.io/badge/ECDSA-0D1117?style=flat-square&logo=letsencrypt&logoColor=3FB950" alt="" />
+
+<a href="https://github.com/DevPatils/pooled-staking-contracts"><img src="https://img.shields.io/badge/Source-pooled--staking--contracts-E6EDF3?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Repository" /></a>
 
 **Live on mainnet** — real TRX, real custody, no testnet asterisk.
 
@@ -176,6 +180,8 @@ Currently **SDE 1 at [Wnexus](https://wnexus.io)**, shipping energy-brokerage in
 <img src="https://img.shields.io/badge/BullMQ-0D1117?style=flat-square&logo=buffer&logoColor=E6EDF3" alt="" />
 <img src="https://img.shields.io/badge/Binance-0D1117?style=flat-square&logo=binance&logoColor=F0B90B" alt="" />
 
+<a href="https://flashtrade.xyz"><img src="https://img.shields.io/badge/Live-flashtrade.xyz-58A6FF?style=flat-square&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Live site" /></a>
+
 **Many bots, one process pool, no cross-talk.**
 
 - Architected a full-stack trading platform on **React · Node · MongoDB** with **BullMQ-orchestrated concurrent bot workers**, so strategies run isolated and independently restartable.
@@ -196,6 +202,8 @@ Currently **SDE 1 at [Wnexus](https://wnexus.io)**, shipping energy-brokerage in
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="" />
 <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="" />
 <img src="https://img.shields.io/badge/Clerk-0D1117?style=flat-square&logo=clerk&logoColor=6C47FF" alt="" />
+
+<a href="https://github.com/DevPatils/Crux-AI--Deployment-Automation"><img src="https://img.shields.io/badge/Source-Crux--AI-E6EDF3?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Repository" /></a>
 
 - Built a **modular portfolio generator** in React + Tailwind with a set of modern, responsive templates that share one data contract.
 - Implemented **résumé parsing with Gemini** to convert unstructured PDF text into **structured JSON**, which then feeds any template without per-template glue code.

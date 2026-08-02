@@ -87,7 +87,7 @@ Currently **SDE 1 at Wnexus**, shipping energy-brokerage infrastructure on TRON.
 <br/>
 
 <h2>
-<img src="https://api.iconify.design/octicon/rocket-24.svg?color=%23a371f7" width="20" align="center" alt="" />
+<img src="" />
 &nbsp;Selected Work
 </h2>
 

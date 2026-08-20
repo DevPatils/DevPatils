@@ -237,14 +237,13 @@ Contributing upstream to security tooling and developer education platforms used
 <td valign="top"><a href="https://github.com/OWASP/OpenCRE/pull/959"><b>#959</b></a> &nbsp;Removed unused graph-visualization dependencies, trimming the frontend bundle and dependency surface.</td>
 <td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
 </tr>
-
+<tr>
+  <td valign="top"><a href="https://github.com/OWASP/OpenCRE/pull/1010"><b>#1010</b></a> &nbsp;Fix flaky gap-analysis tests connecting to real Redis instead of mock.</td>
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
+</tr>
 <tr>
 <td valign="top"><a href="https://github.com/OWASP/OpenCRE/pull/995"><b>#995</b></a> &nbsp;Fixed migration bootstrap bugs breaking clean-environment setup.</td>
-<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
-
-<td valign="top"><a href="https://github.com/OWASP/OpenCRE/pull/1010"><b>#1010</b></a> &nbsp;Fix flaky gap-analysis tests connecting to real Redis instead of mock.</td>
-<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
-  
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>  
 </tr>
 
 <tr>

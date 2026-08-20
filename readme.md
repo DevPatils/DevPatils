@@ -239,7 +239,7 @@ Contributing upstream to security tooling and developer education platforms used
 </tr>
 <tr>
 <td valign="top"><a href="https://github.com/OWASP/OpenCRE/pull/995"><b>#995</b></a> &nbsp;Fixed migration bootstrap bugs breaking clean-environment setup.</td>
-<td align="center" valign="top"><img src="https://img.shields.io/badge/Open-3FB950?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
   
 </tr>
 

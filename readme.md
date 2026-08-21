@@ -272,6 +272,63 @@ Contributing upstream to security tooling and developer education platforms used
 <br/>
 
 <h2>
+<<<<<<< HEAD
+=======
+<img src="https://api.iconify.design/octicon/git-pull-request-24.svg?color=%233fb950" width="20" align="center" alt="" />
+&nbsp;Open Source
+</h2>
+
+Contributing upstream to security tooling and developer education platforms used by thousands.
+
+<table>
+<tr>
+<th align="left" width="24%">Project</th>
+<th align="left">Contribution</th>
+<th align="center" width="14%">Status</th>
+</tr>
+
+<tr>
+<td valign="top" rowspan="2">
+<img src="https://api.iconify.design/simple-icons/owasp.svg?color=%23ffffff" width="14" align="center" alt="" />
+&nbsp;<b><a href="https://github.com/OWASP/OpenCRE">OWASP&#8202;/&#8202;OpenCRE</a></b><br/>
+<sub>Common Requirement Enumeration — the OWASP standard linking security requirements across frameworks.</sub>
+</td>
+<td valign="top"><a href="https://github.com/OWASP/OpenCRE/pull/959"><b>#959</b></a> &nbsp;Removed unused graph-visualization dependencies, trimming the frontend bundle and dependency surface.</td>
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="https://github.com/OWASP/OpenCRE/pull/995"><b>#995</b></a> &nbsp;Fixed migration bootstrap bugs breaking clean-environment setup.</td>
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>  
+</tr>
+
+<tr>
+<td valign="top" rowspan="3">
+<img src="https://api.iconify.design/simple-icons/circuitverse.svg?color=%2342b883" width="14" align="center" alt="" />
+&nbsp;<b><a href="https://github.com/CircuitVerse/cv-frontend-vue">CircuitVerse</a></b><br/>
+<sub>Open-source digital logic simulator used by students and educators worldwide.</sub>
+</td>
+<td valign="top"><a href="https://github.com/CircuitVerse/cv-frontend-vue/pull/1137"><b>#1137</b></a> &nbsp;Corrected the Flag module help link to point at valid documentation.</td>
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/CircuitVerse/cv-frontend-vue/pull/1130"><b>#1130</b></a> &nbsp;Removed a duplicate nested <code>v-for</code> and reworked the Testbench Creator layout.</td>
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/CircuitVerse/cv-frontend-vue/pull/1122"><b>#1122</b></a> &nbsp;Fixed the user-menu close icon and a washed-out hover state.</td>
+<td align="center" valign="top"><img src="https://img.shields.io/badge/Merged-A371F7?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Merged" /></td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/search?q=author%3ADevPatils+is%3Apr&type=pullrequests"><img src="https://img.shields.io/badge/View%20all%20pull%20requests-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="All PRs" /></a>
+</div>
+
+<br/>
+
+<h2>
+>>>>>>> f3707a8e2cf0427a6878f32807f20a798cf390e0
 <img src="https://api.iconify.design/octicon/stack-24.svg?color=%23d29922" width="20" align="center" alt="" />
 &nbsp;Stack
 </h2>
